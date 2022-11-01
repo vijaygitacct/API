@@ -6,6 +6,9 @@ public class ExampleGitHub {
 		System.out.println("GitHub");
 		System.out.println("GitHub");
 		System.out.println("GitHub");
+		System.out.println("GitHub");
+		System.out.println("GitHub");
+		System.out.println("GitHub");
 		
 	}
 
